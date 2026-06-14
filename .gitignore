@@ -1,0 +1,19 @@
+# Private files
+messeges.txt
+messages.txt
+
+# MT5 compiled files
+*.ex5
+*.ex4
+
+# MT5 logs
+*.log
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+*.swp
+*.swo
